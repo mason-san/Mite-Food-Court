@@ -1,0 +1,4 @@
+fastapi
+alembic
+psycopg2-binary
+python-dotenv
